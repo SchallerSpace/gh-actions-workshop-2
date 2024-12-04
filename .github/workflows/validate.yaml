@@ -17,7 +17,7 @@ on:
   # pull_request:
   #   branches: main
   #   paths: 'data/**'
-  workflow_dispatch
+  # workflow_dispatch
 
 name: 02-Validate Data
 
