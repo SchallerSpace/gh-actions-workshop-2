@@ -5,7 +5,7 @@
 #' interested in that, see the validation_report.yaml example.
 #' 
 on:
-  workflow_dispatch
+  workflow_dispatch:
   push:
     branches: main
   # pull_request:
